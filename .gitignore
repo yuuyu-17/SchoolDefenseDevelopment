@@ -97,3 +97,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# === Local heavy assets (excluded from Git tracking) ===
+/Assets/Textures/
+/Assets/Models/
+/Assets/Sounds/
+/Assets/Videos/
+/Assets/Animations/
+/Assets/Effects/
